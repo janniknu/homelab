@@ -42,4 +42,4 @@ echo "==> Docker installation completed"
 docker --version
 docker compose version
 
-echo "Done ✔"
+echo "==> Done ✔"
